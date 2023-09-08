@@ -2,7 +2,7 @@
 ## Little Lemon Restaurant
 
 <!---================================ LINK ================================--->
-##### Deployed website link: [https://sonaliidas.github.io/little-lemon-restaurant/](https://sonaliidas.github.io/little-lemon-restaurant-mini-project/)
+##### Deployed website link: [https://sonaliidas.github.io/little-lemon-restaurant-mini-project/](https://sonaliidas.github.io/little-lemon-restaurant-mini-project/)
 
 ***
 <!---================================ THUMBNAIL ================================--->
